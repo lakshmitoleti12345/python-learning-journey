@@ -129,3 +129,9 @@ Repeat until number becomes 0
 
 Example:Input: 1234
 Output: 4321
+Day 3------------
+in this day i do patterns
+#how many rows and columns
+# how many stars in first row
+# stars increasing or decreasing
+
